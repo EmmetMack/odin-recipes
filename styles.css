@@ -1,0 +1,12 @@
+.title {
+    color: purple;
+    font-size: 40px;
+    background-color: gold;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
