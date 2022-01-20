@@ -30,3 +30,19 @@ h2 {
     font-size: 18px;
     font-family: "Comic Sans", sans-serif;
 }
+
+h3 {
+    color:palevioletred;
+    font-size: 60px;
+}
+
+ol {
+    font-weight: bold;
+    color: cyan;
+    font-size: 14px;
+}
+
+ul {
+    color: magenta;
+    font-family: "Verdana", sans-serif;
+}
